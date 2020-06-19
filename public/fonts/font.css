@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('Poppins/Poppins-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('Poppins/Poppins-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+/* @font-face {
+    font-family: 'Pacifico';
+    src: url('Pacifico/Pacifico-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay-Black';
+    src: url('PlayfairDisplay/PlayfairDisplay-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay-Bold';
+    src: url('PlayfairDisplay/PlayfairDisplay-Bold.ttf') format('truetype');
+} */
